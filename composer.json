@@ -1,0 +1,14 @@
+{
+    "name": "generateur-de-v-bucks-fortnite/astuces-fortnite-triche",
+    "type": "library",
+    "description": "Essayez notre nouveau générateur V-Bucks de Fortnite, où vous aurez un nombre illimité de dollars",
+    "homepage": "http://jeuxgratuit.pro/fortnite/",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "http://jeuxgratuit.pro/fortnite/",
+            "homepage": "http://jeuxgratuit.pro/fortnite/"
+        }
+    ]
+    
+}
